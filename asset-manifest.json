@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e26f4fe7.css",
+    "main.js": "/static/js/main.69991bf4.js",
+    "static/js/488.1446b851.chunk.js": "/static/js/488.1446b851.chunk.js",
+    "static/media/python.png": "/static/media/python.cd48022b8d80310c1f10.png",
+    "static/media/java.png": "/static/media/java.2f6057e62b4eed6a7810.png",
+    "static/media/saboo1.jpg": "/static/media/saboo1.5ff0b97884ca21c8ed27.jpg",
+    "static/media/holy-cross.jpg": "/static/media/holy-cross.cc00bb5f55addb5a8c87.jpg",
+    "static/media/royal-college.jpg": "/static/media/royal-college.17319892c1cc8806fb6c.jpg",
+    "static/media/atm.png": "/static/media/atm.4b72d7d5534a45d5efc5.png",
+    "static/media/action-recog.png": "/static/media/action-recog.db835c2104984dc0a5ab.png",
+    "static/media/health-care.jpeg": "/static/media/health-care.2212a2424deacf69b1bf.jpeg",
+    "static/media/git.png": "/static/media/git.7c58eb7a928786a2acc4.png",
+    "static/media/todo-app.png": "/static/media/todo-app.a6515a1f3c7d9b0ba012.png",
+    "static/media/tech-news.png": "/static/media/tech-news.7f1791ce793d66bcebef.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/machine-learning.png": "/static/media/machine-learning.67f935bae93f7cf1da31.png",
+    "static/media/api.png": "/static/media/api.aceeff496910c356de58.png",
+    "static/media/mongo.png": "/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/sql.png": "/static/media/sql.64b3eb63f995c0da35b3.png",
+    "static/media/sentiment.png": "/static/media/sentiment.d0d2a98f12350259fdf6.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/express.png": "/static/media/express.39a0f4c3d981885c64f8.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/flappy-bird.webp": "/static/media/flappy-bird.658c2f8c2b17d217705b.webp",
+    "index.html": "/index.html",
+    "main.e26f4fe7.css.map": "/static/css/main.e26f4fe7.css.map",
+    "main.69991bf4.js.map": "/static/js/main.69991bf4.js.map",
+    "488.1446b851.chunk.js.map": "/static/js/488.1446b851.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e26f4fe7.css",
+    "static/js/main.69991bf4.js"
+  ]
+}
