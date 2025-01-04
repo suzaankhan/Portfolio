@@ -25,6 +25,7 @@ const Projects = () => {
             href="https://github.com/suzaankhan/Healthcare-Management-System.git"
             target="_blank"
             className="group"
+            rel="noopener noreferrer"
           >
             <div
               name="card"
@@ -55,6 +56,7 @@ const Projects = () => {
             href="https://github.com/suzaankhan/Todo-App.git"
             target="_blank"
             className="group"
+            rel="noopener noreferrer"
           >
             <div
               name="card"
@@ -83,6 +85,7 @@ const Projects = () => {
             href="https://github.com/suzaankhan/Tech-News-Website.git"
             target="_blank"
             className="group"
+            rel="noopener noreferrer"
           >
             <div
               name="card"
@@ -113,6 +116,7 @@ const Projects = () => {
             href="https://github.com/suzaankhan/ATM-System-with-Face-recognition-and-liveness-detection.git"
             target="_blank"
             className="group"
+            rel="noopener noreferrer"
           >
             <div
               name="card"
@@ -143,6 +147,7 @@ const Projects = () => {
             href="https://github.com/suzaankhan/Action-Recognition-using-LSTM.git"
             target="_blank"
             className="group"
+            rel="noopener noreferrer"
           >
             <div
               name="card"
@@ -174,6 +179,7 @@ const Projects = () => {
             href="https://github.com/suzaankhan/Product-Reviews-Sentiment-Analysis.git"
             target="_blank"
             className="group"
+            rel="noopener noreferrer"
           >
             <div
               name="card"
@@ -204,6 +210,7 @@ const Projects = () => {
             href="https://github.com/suzaankhan/Flappy-Bird-Game.git"
             target="_blank"
             className="group"
+            rel="noopener noreferrer"
           >
             <div
               name="card"
